@@ -1,22 +1,22 @@
 {
-    "name": "Queen_Anita-V2",
-    "description": "Simple WhatsApp Bot",
+    "name": "unfazed-ducksyde",
+    "description": "zero fucks given",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "keywords": ["zero", "fucks", "given"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
-        "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "description": "spice daddy",
+        "value": "spice daddy",
         "required": true
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
-        "required": false
+        "value": "true",
+        "required": true
       },
       "USER_IMAGES": {
         "description": "Menu Images",
@@ -39,8 +39,8 @@
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
-        "required": false,
-        "value": "Queen_Anita-V2"
+        "required": true,
+        "value": "unfazed-ducksyde"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -59,8 +59,8 @@
       },
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
-        "required": false,
-        "value": "false"
+        "required": true,
+        "value": "true"
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "254704449805"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
